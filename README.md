@@ -13,7 +13,7 @@ During this phase, developers, analysts, and stakeholders work together to:
 - Define the **non-functional requirements** (how the system should perform, e.g., speed, security, usability).  
 - Document clear and testable requirements that guide the entire project.  
 
-### Importance in the SDLC  
+## Importance in the SDLC  
 1. **Clarity of Goals** – Ensures all stakeholders have a shared understanding of the project objectives.  
 2. **Reduced Errors** – Detects and resolves ambiguities or conflicts early, preventing costly mistakes later.  
 3. **Improved Planning** – Provides a solid base for estimating time, cost, and resources.  
