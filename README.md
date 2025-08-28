@@ -35,3 +35,26 @@ Requirement Analysis is critical in the Software Development Lifecycle (SDLC) be
 3. **Improves Software Quality**  
    - By defining precise functional and non-functional requirements, the final product is more reliable, efficient, and aligned with user expectations.  
 
+## Key Activities in Requirement Analysis  
+
+The process of requirement analysis involves several structured activities that ensure requirements are accurate, complete, and useful for guiding software development. The five key activities include:  
+
+- **Requirement Gathering**  
+  - Collecting raw information from stakeholders, customers, users, and existing systems.  
+  - Serves as the initial step to understand what the project is expected to achieve.  
+
+- **Requirement Elicitation**  
+  - Engaging with stakeholders through interviews, surveys, workshops, and observation.  
+  - Focuses on uncovering both stated and hidden needs that the system must address.  
+
+- **Requirement Documentation**  
+  - Recording requirements in a structured and accessible format, such as Software Requirement Specifications (SRS).  
+  - Provides a formal reference that guides developers, testers, and managers.  
+
+- **Requirement Analysis and Modeling**  
+  - Examining requirements to ensure they are consistent, complete, and feasible.  
+  - May involve using models, diagrams, or prototypes to visualize system behavior and structure.  
+
+- **Requirement Validation**  
+  - Confirming that the documented requirements reflect the true needs of stakeholders.  
+  - Ensures accuracy and helps prevent costly changes during later phases of development.  
