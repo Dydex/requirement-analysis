@@ -87,3 +87,31 @@ They define the operational characteristics of the system rather than specific b
 - The system must be available **24/7 with 99.9% uptime**.  
 - All user data must be encrypted to ensure **security and privacy compliance**.  
 
+
+## Use Case Diagrams  
+
+**What are Use Case Diagrams?**  
+Use Case Diagrams are a visual representation of the interactions between **actors** (users or external systems) and the **system**. They show the functionality of a system from the user’s perspective and help communicate what the system is supposed to do without going into technical details.  
+
+### Benefits of Use Case Diagrams  
+- Provide a **clear overview** of system functionality.  
+- Help stakeholders and developers **communicate effectively**.  
+- Identify **primary actors** (e.g., users, admins) and their interactions with the system.  
+- Serve as a **foundation for requirement analysis and testing**.  
+
+### Use Case Diagram for the Booking Management System  
+
+**Actors:**  
+- Customer  
+- Admin/Staff  
+
+**Use Cases:**  
+- Create Booking  
+- View Booking  
+- Cancel Booking  
+- Search Availability  
+- Receive Confirmation  
+- Manage Bookings (Admin)  
+- Manage Customer Details (Admin)  
+
+![Booking System Use Case Diagram](alx-booking-uc.png)  
